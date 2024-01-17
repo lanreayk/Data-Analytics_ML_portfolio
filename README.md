@@ -1,6 +1,6 @@
 # Data-Analytics_ML_portfolio
 ## projects
-There are three (4) different projects in this porfolio
+There are Five (5) different projects in this porfolio
 # DA project1
 Description: Its a python data analytics work where one has to determine if increasing the production of "repeat product" comodity could lead to increase in sales based on the analysis of the current data
 # EEG Emotion data classification project
@@ -12,3 +12,5 @@ Description:
 This project requires the cleaning and preprocessing of a very messy big data about football players and numerous features that can be used to predict their scoring chances in a match. The data is cleaned, preprocesed and useful features were extracted and used in a machine learning algorithm to predict chances of scoring in a match. Its a very challenging data and more work can be done to improve the prediction. 
 # autodirty data set
 This is a very messy data about automobiles. the data is cleaned and prepared for machine learning exploration 
+# Heart disease ML-EDA
+I did exploratory analysis for the popular heart disease data set for better understanding of the data and subsequent develpoment of machine learning problem that could be solved with the data
